@@ -1,0 +1,45 @@
+1. capture a video, using the free "QuickTime Player" application:
+
+Open "Quicktime Player",
+
+Go to File -> New Screen Recording
+
+Selected screen portion by dragging a rectangle, recorded 13 second video.
+
+Go to File -> Export -> As Movie
+
+Saved the video in full quality with the filename in.mov
+
+2.install ffmeg and gifsicle
+
+$ gcc --version
+
+$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+$ brew update
+
+$ brew install ffmpeg 
+
+$ brew cask install xquartz #dependency for gifsicle, only required for mountain-lion and above
+
+$ brew install gifsicle
+
+3. push to git
+
+4.eidt README.md
+title
+
+<img src='/a_pythonOnly_1stTrial/trial.gif' height="15%" width="15%"
+
+desc
+
+RECOURSES:
+1-4
+https://gist.github.com/dergachev/4627207
+
+markdown cheetsheet
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#table-of-contents
+
+table of content (unsloved)
+https://stackoverflow.com/questions/18244417/how-do-i-create-some-kind-of-table-of-content-in-github-wiki
+
