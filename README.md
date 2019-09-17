@@ -9,3 +9,7 @@ Other userful info
       
       https://www.w3docs.com/snippets/git/how-to-rename-git-local-and-remote-branches.html (specific on renew names)
     ```
+    * draw branches:
+        ```
+        http://bit-booster.com/graph.html
+        ```
