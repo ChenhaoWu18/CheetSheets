@@ -24,6 +24,10 @@ $ brew cask install xquartz #dependency for gifsicle, only required for mountain
 
 $ brew install gifsicle
 
+go to the .mov folder
+
+$ffmpeg -i in.mov -s 600x400 -pix_fmt rgb24 -r 10 -f gif - | gifsicle --optimize=3 --delay=3 > out.gif
+
 3. push to git
 
 4.eidt README.md
