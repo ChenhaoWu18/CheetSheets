@@ -16,3 +16,6 @@ Other userful info
         ```
         https://www.atlassian.com/git/tutorials/using-branches/git-merge
         ```
+
+# bash 
+https://devhints.io/bash
